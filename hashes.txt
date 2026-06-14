@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El guardián de tus secretos
+
+This log tracks the cryptographic history and versioning for the song **El guardián de tus secretos** (el-guardian-de-tus-secretos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T14:42:13.057207 | `v1` | `` | `75c9f8f94237b0f89750bf8a2c7930a1ecb4ebf56dc6851f7b5d3c9c52af4fc2` | `2026-06-14_el-guardian-de-tus-secretos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
