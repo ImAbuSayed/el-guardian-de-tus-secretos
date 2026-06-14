@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-guardian-de-tus-secretos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for El guardián de tus secretos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-guardian-de-tus-secretos/) |
+| **Get License** | [Secure Licensing Rights for El guardián de tus secretos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-guardian-de-tus-secretos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
